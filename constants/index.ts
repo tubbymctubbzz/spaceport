@@ -88,12 +88,12 @@ export const Skill_data = [
     },
     {
       name: "Facebook",
-      src: "/facebook.webp",
+      src: "/facebook.svg",
       url: "https://www.facebook.com/profile.php?id=100082244463675"
     },
     {
       name: "LinkedIn",
-      src: "/Linkedin.png",
+      src: "/linkedin.svg",
       url: "https://www.linkedin.com/in/harvey-jordan-a28757223/"
     },
   ];
