@@ -88,7 +88,7 @@ export const Skill_data = [
     },
     {
       name: "Facebook",
-      src: "/facebook.svg",
+      src: "/facebook.webp",
       url: "https://www.facebook.com/profile.php?id=100082244463675"
     },
     {
