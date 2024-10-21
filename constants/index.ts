@@ -92,9 +92,9 @@ export const Skill_data = [
       url: "https://www.facebook.com/profile.php?id=100082244463675"
     },
     {
-      name: "Instagram",
-      src: "/instagram.webp",
-      url: "https://www.instagram.com/harveyhartley99/"
+      name: "LinkedIn",
+      src: "/Linkedin.png",
+      url: "https://www.linkedin.com/in/harvey-jordan-a28757223/"
     },
   ];
   
